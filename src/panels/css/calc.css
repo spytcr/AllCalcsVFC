@@ -1,0 +1,25 @@
+.result {
+  height: 12vh;
+  border-radius: 15px;
+  border: 2px ridge black;
+  background-color: rgb(255, 253, 253);
+  width: 98%;
+  font-size: 40px;
+}
+
+.calculator-body {
+  margin: 0;
+  height: 80vh;
+}
+
+.button {
+  display: block;
+  height: 70vh;
+}
+
+button {
+  border-radius: 15px;
+  width: 25%;
+  height: 20%;
+  font-size: 30px;
+}

@@ -1,0 +1,32 @@
+.BtnList{
+
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 1vh;
+
+}
+
+.FirstBtn{
+
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 2vh;
+    margin-bottom: 0.5vh;
+
+}
+
+.CalcDiv{
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 2vh;
+}
+
+.CalcBtn{
+    margin-left: 13vw;
+    margin-top: 1.5vh;
+    width: 70%;
+    height: 6vh;
+}
+.CalcsRes{
+    text-align: center;
+}
