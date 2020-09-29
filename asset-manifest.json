@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/spytcr/AllCalcsVFC/static/css/main.2f023da6.chunk.css",
-    "main.js": "/spytcr/AllCalcsVFC/static/js/main.7b50cb4a.chunk.js",
-    "main.js.map": "/spytcr/AllCalcsVFC/static/js/main.7b50cb4a.chunk.js.map",
-    "runtime-main.js": "/spytcr/AllCalcsVFC/static/js/runtime-main.11e1e75b.js",
-    "runtime-main.js.map": "/spytcr/AllCalcsVFC/static/js/runtime-main.11e1e75b.js.map",
-    "static/css/2.09e62520.chunk.css": "/spytcr/AllCalcsVFC/static/css/2.09e62520.chunk.css",
-    "static/js/2.c35ae979.chunk.js": "/spytcr/AllCalcsVFC/static/js/2.c35ae979.chunk.js",
-    "static/js/2.c35ae979.chunk.js.map": "/spytcr/AllCalcsVFC/static/js/2.c35ae979.chunk.js.map",
-    "index.html": "/spytcr/AllCalcsVFC/index.html",
-    "precache-manifest.16fb6373dbd0244d43e9b7c2c90d8fa0.js": "/spytcr/AllCalcsVFC/precache-manifest.16fb6373dbd0244d43e9b7c2c90d8fa0.js",
-    "service-worker.js": "/spytcr/AllCalcsVFC/service-worker.js",
-    "static/css/2.09e62520.chunk.css.map": "/spytcr/AllCalcsVFC/static/css/2.09e62520.chunk.css.map",
-    "static/css/main.2f023da6.chunk.css.map": "/spytcr/AllCalcsVFC/static/css/main.2f023da6.chunk.css.map",
-    "static/js/2.c35ae979.chunk.js.LICENSE.txt": "/spytcr/AllCalcsVFC/static/js/2.c35ae979.chunk.js.LICENSE.txt"
+    "main.css": "/AllCalcsVFC/static/css/main.2f023da6.chunk.css",
+    "main.js": "/AllCalcsVFC/static/js/main.7b50cb4a.chunk.js",
+    "main.js.map": "/AllCalcsVFC/static/js/main.7b50cb4a.chunk.js.map",
+    "runtime-main.js": "/AllCalcsVFC/static/js/runtime-main.3e9dd978.js",
+    "runtime-main.js.map": "/AllCalcsVFC/static/js/runtime-main.3e9dd978.js.map",
+    "static/css/2.09e62520.chunk.css": "/AllCalcsVFC/static/css/2.09e62520.chunk.css",
+    "static/js/2.0ef3e610.chunk.js": "/AllCalcsVFC/static/js/2.0ef3e610.chunk.js",
+    "static/js/2.0ef3e610.chunk.js.map": "/AllCalcsVFC/static/js/2.0ef3e610.chunk.js.map",
+    "index.html": "/AllCalcsVFC/index.html",
+    "precache-manifest.ffd75acce5267774deb7d20c8e5efba8.js": "/AllCalcsVFC/precache-manifest.ffd75acce5267774deb7d20c8e5efba8.js",
+    "service-worker.js": "/AllCalcsVFC/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/AllCalcsVFC/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.2f023da6.chunk.css.map": "/AllCalcsVFC/static/css/main.2f023da6.chunk.css.map",
+    "static/js/2.0ef3e610.chunk.js.LICENSE.txt": "/AllCalcsVFC/static/js/2.0ef3e610.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11e1e75b.js",
+    "static/js/runtime-main.3e9dd978.js",
     "static/css/2.09e62520.chunk.css",
-    "static/js/2.c35ae979.chunk.js",
+    "static/js/2.0ef3e610.chunk.js",
     "static/css/main.2f023da6.chunk.css",
     "static/js/main.7b50cb4a.chunk.js"
   ]
